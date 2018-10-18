@@ -1,0 +1,18 @@
+cargo-features = ["edition"]
+
+[package]
+name = "optix-pathtracer-example"
+version = "0.1.0"
+authors = ["Anders Langlands <anderslanglands@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+optix = "0.1"
+config = "0.9"
+gl = "0.10"
+glfw = "0.23"
+crossbeam-channel = "0.2"
+
+[build-dependencies]
+config= "0.9"
+cmake = "0.1"
