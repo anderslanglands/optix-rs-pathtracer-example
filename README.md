@@ -1,4 +1,5 @@
 # optix-rs-pathtracer-example
+![alt text](https://github.com/anderslanglands/optix-rs-pathtracer-example/blob/master/img/cornell_box_0001.png "Cornell Box")
 Minimal example showing how to use optix-rs. This is a companion to https://github.com/anderslanglands/optix-rs - it is simply the pathtracer example from that crate factored out into its own repository to show how to set up the build for a project that depends on optix-rs.
 
 # Dependencies
